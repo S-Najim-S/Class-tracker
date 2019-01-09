@@ -1,0 +1,4 @@
+#Fri Jan 04 20:03:13 EET 2019
+base.0=/home/enes/Desktop/myapp3/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
